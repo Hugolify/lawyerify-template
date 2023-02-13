@@ -1,0 +1,19 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "0"
+    X-Content-Type-Options = "nosniff"
+
+[build]
+  command = "yarn build"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.109.0"
+
+[context.branch-deploy.environment]
+  HUGO_ENV = "staging"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"

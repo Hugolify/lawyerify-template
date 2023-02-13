@@ -1,0 +1,15 @@
+## LANGUAGE
+defaultContentLanguage: fr
+languageCode: fr
+
+## ADVANCED
+build:
+  writeStats: true
+enableRobotsTXT: true
+imaging:
+  quality: 75
+markup:
+  tableOfContents:
+    ordered: true
+paginate: 18
+removePathAccents: true
