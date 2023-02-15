@@ -1,4 +1,6 @@
 imports:
+- path: github.com/hugolify/lawyerify-netlify-cms
+- path: github.com/hugolify/hugolify-netlify-cms
 - path: github.com/hugolify/lawyerify-example-site
 - path: github.com/hugolify/lawyerify-theme
 - path: github.com/hugolify/hugolify-theme-offices
@@ -12,5 +14,3 @@ imports:
 - path: github.com/hugolify/hugolify-theme-publications
 - path: github.com/hugolify/hugolify-theme-persons
 - path: github.com/hugolify/hugolify-theme
-# - path: github.com/hugolify/lawyerify-netlify-cms
-- path: github.com/hugolify/hugolify-netlify-cms
