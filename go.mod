@@ -17,7 +17,7 @@ require (
 	github.com/hugolify/hugolify-theme-publications-concerned v1.0.3 // indirect
 	github.com/hugolify/hugolify-theme-statutes v1.0.2 // indirect
 	github.com/hugolify/lawyerify-example-site v1.0.2 // indirect
-	github.com/hugolify/lawyerify-netlify-cms v1.0.0 // indirect
+	github.com/hugolify/lawyerify-netlify-cms v1.0.2 // indirect
 	github.com/hugolify/lawyerify-theme v1.0.1 // indirect
 	github.com/twbs/bootstrap v5.2.3+incompatible // indirect
 )

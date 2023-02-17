@@ -28,6 +28,8 @@ github.com/hugolify/lawyerify-example-site v1.0.2 h1:yElCTGdzcOW7b8BeO3HKmSrrr1A
 github.com/hugolify/lawyerify-example-site v1.0.2/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
 github.com/hugolify/lawyerify-netlify-cms v1.0.0 h1:x87ayj4jkoXS/Go2NqZihUb0Y9M5gTcNR6VQ2xm81RE=
 github.com/hugolify/lawyerify-netlify-cms v1.0.0/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
+github.com/hugolify/lawyerify-netlify-cms v1.0.2 h1:1LEoMPyAfBJz/qsCSYyXAQrqZYafq5y7uvgPue+UIUA=
+github.com/hugolify/lawyerify-netlify-cms v1.0.2/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
 github.com/hugolify/lawyerify-theme v1.0.1 h1:60meE7+iczRJKMcTDBkP7fw91Jg9RwG9uL6WsQbP4dc=
 github.com/hugolify/lawyerify-theme v1.0.1/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
 github.com/twbs/bootstrap v5.2.3+incompatible h1:lOmsJx587qfF7/gE7Vv4FxEofegyJlEACeVV+Mt7cgc=
