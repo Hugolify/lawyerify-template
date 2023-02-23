@@ -14,6 +14,8 @@ github.com/hugolify/hugolify-theme v1.3.0 h1:AcJdfQtw/sbH8xXmzZZsxmKp94f7Xl18dze
 github.com/hugolify/hugolify-theme v1.3.0/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme v1.3.1 h1:NCicpO0WjUHffmbvwCzvT3tIqJcqN78YfXR1ijwbgUo=
 github.com/hugolify/hugolify-theme v1.3.1/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
+github.com/hugolify/hugolify-theme v1.3.2 h1:So8ht5kj9c8tyP6E9JWHS0g7y94OS4THUJG5ZaK7XDo=
+github.com/hugolify/hugolify-theme v1.3.2/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme-expertises v1.0.1 h1:OXwi67zTcWxHWzKq1ZDgRq2E4BaHrUMasjBlKr6gV4w=
 github.com/hugolify/hugolify-theme-expertises v1.0.1/go.mod h1:PRae8nvjLI70qjJEVsLf01ufzmdF1cFJ7yrkEuNh0FY=
 github.com/hugolify/hugolify-theme-offices v1.0.1 h1:KrZZrcDSPpCkcB0K6Fv/AjXJflGLgcgPyxXgHUpxzFs=
@@ -38,11 +40,15 @@ github.com/hugolify/hugolify-theme-publications-concerned v1.0.3 h1:DkXCK9O1kf0F
 github.com/hugolify/hugolify-theme-publications-concerned v1.0.3/go.mod h1:SAxYCXVsDJ5lUHU/YRrTIVWATehPwdy9a1VHhmUP5dw=
 github.com/hugolify/lawyerify-example-site v1.0.2 h1:yElCTGdzcOW7b8BeO3HKmSrrr1ATiebYSmxGv7B3gWA=
 github.com/hugolify/lawyerify-example-site v1.0.2/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
+github.com/hugolify/lawyerify-example-site v1.0.3 h1:5o0YUKbQbT9ZuC27FGQjo83//+dNxOPFetsFM+ZtmMg=
+github.com/hugolify/lawyerify-example-site v1.0.3/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
 github.com/hugolify/lawyerify-netlify-cms v1.0.3 h1:mNhnE2Bos3qxL7gUIr6tZr6wVJi9LElnh0Xe/NLyReM=
 github.com/hugolify/lawyerify-netlify-cms v1.0.3/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
 github.com/hugolify/lawyerify-netlify-cms v1.0.4 h1:Z+Cf7fXc6HjZ70/7jF70NxrZw5pKE1QV2LmjCTqEsMc=
 github.com/hugolify/lawyerify-netlify-cms v1.0.4/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
 github.com/hugolify/lawyerify-theme v1.0.1 h1:60meE7+iczRJKMcTDBkP7fw91Jg9RwG9uL6WsQbP4dc=
 github.com/hugolify/lawyerify-theme v1.0.1/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
+github.com/hugolify/lawyerify-theme v1.0.2 h1:ozEYz3SU/4CNipJnZW2CgjwD+MBa5Pl/kDaTzY9yjHs=
+github.com/hugolify/lawyerify-theme v1.0.2/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
 github.com/twbs/bootstrap v5.2.3+incompatible h1:lOmsJx587qfF7/gE7Vv4FxEofegyJlEACeVV+Mt7cgc=
 github.com/twbs/bootstrap v5.2.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
