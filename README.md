@@ -11,7 +11,9 @@ Is a Github template based to Hugolify
 - [License](#license)
 
 ## Live demo
-https://demo.lawyerify.fr
+https://demo.lawyerify.io
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52a785b6-9320-46e5-bf49-cfeafce44edd/deploy-status)](https://app.netlify.com/sites/lawyerify-demo/deploys)
 
 ## Features
 Hugo sections available in theme and admin
