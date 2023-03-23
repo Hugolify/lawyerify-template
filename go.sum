@@ -28,10 +28,14 @@ github.com/hugolify/hugolify-theme v1.3.8 h1:trRETIp+QwU/HNx8vWjjZVjkg9h1pnrIfZp
 github.com/hugolify/hugolify-theme v1.3.8/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme v1.3.24 h1:Tbp/frRJnn57Zv7bF2zmC5LqRp4TNnQFDsxlhrltuw4=
 github.com/hugolify/hugolify-theme v1.3.24/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
+github.com/hugolify/hugolify-theme v1.3.25 h1:rWIcXrVKZaae2tbPpzqZ4iM2hRuan/D+9TROIi6+OO0=
+github.com/hugolify/hugolify-theme v1.3.25/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme-expertises v1.0.1 h1:OXwi67zTcWxHWzKq1ZDgRq2E4BaHrUMasjBlKr6gV4w=
 github.com/hugolify/hugolify-theme-expertises v1.0.1/go.mod h1:PRae8nvjLI70qjJEVsLf01ufzmdF1cFJ7yrkEuNh0FY=
 github.com/hugolify/hugolify-theme-expertises v1.0.2 h1:oM+vBBuZRJMN4PRYJu2YJuZbP8kq1zNhSCvcyTwGkxc=
 github.com/hugolify/hugolify-theme-expertises v1.0.2/go.mod h1:PRae8nvjLI70qjJEVsLf01ufzmdF1cFJ7yrkEuNh0FY=
+github.com/hugolify/hugolify-theme-expertises v1.0.3 h1:1TjXbpcQv86emJaDUiUE2YBTPCRuSpQcVVV1sAU3XFU=
+github.com/hugolify/hugolify-theme-expertises v1.0.3/go.mod h1:PRae8nvjLI70qjJEVsLf01ufzmdF1cFJ7yrkEuNh0FY=
 github.com/hugolify/hugolify-theme-offices v1.0.1 h1:KrZZrcDSPpCkcB0K6Fv/AjXJflGLgcgPyxXgHUpxzFs=
 github.com/hugolify/hugolify-theme-offices v1.0.1/go.mod h1:jl36gpgiF50GARJgKkLa71wg7gfpI+PmfYHpufVWWLc=
 github.com/hugolify/hugolify-theme-offices v1.0.3 h1:JBFWBeJbtqTeQ+0jVJC/r0jUajJjdEiG8TIPCh48QC8=
@@ -82,6 +86,8 @@ github.com/hugolify/lawyerify-example-site v1.0.3 h1:5o0YUKbQbT9ZuC27FGQjo83//+d
 github.com/hugolify/lawyerify-example-site v1.0.3/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
 github.com/hugolify/lawyerify-example-site v1.0.4 h1:S16J8OrQ69RQzClowi2EMBrx+DS3vZlQcPio5//5hUY=
 github.com/hugolify/lawyerify-example-site v1.0.4/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
+github.com/hugolify/lawyerify-example-site v1.0.5 h1:zv8AovOBzc4tLCkJXxWju8LkRESW/kkRn96W4cYloow=
+github.com/hugolify/lawyerify-example-site v1.0.5/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
 github.com/hugolify/lawyerify-netlify-cms v1.0.3 h1:mNhnE2Bos3qxL7gUIr6tZr6wVJi9LElnh0Xe/NLyReM=
 github.com/hugolify/lawyerify-netlify-cms v1.0.3/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
 github.com/hugolify/lawyerify-netlify-cms v1.0.4 h1:Z+Cf7fXc6HjZ70/7jF70NxrZw5pKE1QV2LmjCTqEsMc=
