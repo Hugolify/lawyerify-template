@@ -1,6 +1,6 @@
 {
     "name": "lawyerify-template",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "homepage": "https://www.lawyerify.io",
     "repository": "https://github.com/hugolify/lawyerify-template",
     "bugs": {
@@ -25,7 +25,9 @@
         "watch": "hugo server",
         "build": "hugo --gc --minify",
         "update": "hugo mod get -u",
+        "tidy": "hugo mod tidy",
         "clean": "hugo mod clean",
+        "cleanall": "hugo mod clean --all",
         "cms": "npx netlify-cms-proxy-server"
     }
 }
