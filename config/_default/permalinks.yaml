@@ -1,5 +1,11 @@
 _merge: deep
 offices: /cabinets/:slug/
 persons: /equipe/:slug/
-posts: /actualites/:year-:month-:day-:slug/
+statutes: /equipe/statuts/:slug/
+posts: /actualites/:year/:year-:month-:day-:slug/
+authors: /actualites/auteurs/:slug/
+categories: /actualites/categories/:slug/
+tags: /actualites/tags/:slug/
 publications: /parutions/:slug/
+publications_categories: /parutions/categories/:slug/
+concerned: /parutions/personnes-concernees/:slug/
