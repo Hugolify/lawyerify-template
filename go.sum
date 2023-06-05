@@ -28,6 +28,8 @@ github.com/hugolify/hugolify-theme-publications-concerned v1.0.8 h1:4kYoDYTEt9kD
 github.com/hugolify/hugolify-theme-publications-concerned v1.0.8/go.mod h1:SAxYCXVsDJ5lUHU/YRrTIVWATehPwdy9a1VHhmUP5dw=
 github.com/hugolify/lawyerify-example-site v1.0.9 h1:KT/oTe2LWV0mR3MQWb+9Xj2BTGlGnLlJp0Fin69hlJU=
 github.com/hugolify/lawyerify-example-site v1.0.9/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
+github.com/hugolify/lawyerify-example-site v1.0.10 h1:6FHE6RImsNLooBw+w6zqrqbmqjFU/JEhkwfoFlqGIJA=
+github.com/hugolify/lawyerify-example-site v1.0.10/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
 github.com/hugolify/lawyerify-netlify-cms v1.0.6 h1:yAyZMhRnT4MesCQFvpt3fsq0Nw3F/7ynsmJ4UP7W/Z0=
 github.com/hugolify/lawyerify-netlify-cms v1.0.6/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
 github.com/hugolify/lawyerify-theme v1.0.6 h1:OC6/vr6kGjvYHxGD05L4XLU2+B62rI6WMN30stc7dPk=
