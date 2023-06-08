@@ -3,7 +3,7 @@ offices: /cabinets/:slug/
 persons: /equipe/:slug/
 persons_expertises: /equipe/expertises/:slug/
 persons_offices: /equipe/cabinets/:slug/
-statutes: /equipe/statuts/:slug/
+persons_statutes: /equipe/statuts/:slug/
 posts: /actualites/:year/:year-:month-:day-:slug/
 posts_expertises: /actualites/expertises/:slug/
 authors: /actualites/auteurs/:slug/
