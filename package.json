@@ -1,15 +1,14 @@
 {
     "name": "lawyerify-template",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "homepage": "https://www.lawyerify.io",
     "repository": "https://github.com/hugolify/lawyerify-template",
     "bugs": {
         "url": "https://github.com/hugolify/lawyerify-template/issues"
     },
     "author": {
-        "email": "sebousan@gmail.com",
-        "name": "Sébastien Moulène",
-        "url": "https://www.sebastienmoulene.com/"
+        "name": "Lawyerify",
+        "url": "https://www.lawyerify.io/"
     },
     "license": "MIT",
     "devDependencies": {
