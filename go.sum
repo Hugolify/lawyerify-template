@@ -1,7 +1,7 @@
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
-github.com/hugolify/hugolify-netlify-cms v1.3.0 h1:DSloE1EvHSQmS5O/Cg4fOmlDjc4uL7VqfiTkgZ9uCd0=
-github.com/hugolify/hugolify-netlify-cms v1.3.0/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
+github.com/hugolify/hugolify-netlify-cms v1.4.1 h1:1u8SbJHnHghYabhieZm4Rt/lyKhDQPVz/jbOZ3pnkHU=
+github.com/hugolify/hugolify-netlify-cms v1.4.1/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
 github.com/hugolify/hugolify-theme v1.7.0 h1:82WdNmSgkEwtXKC0eYekfz+xFUUWSWzk/9jPJMebC9g=
 github.com/hugolify/hugolify-theme v1.7.0/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme-expertises v1.0.11 h1:DPGO17p+eZkFCHzzBFlQ7ptZs6HPCNBSf41IYIFLvmg=
@@ -36,8 +36,8 @@ github.com/hugolify/hugolify-theme-publications-expertises v1.0.1 h1:vz7etKtJEtr
 github.com/hugolify/hugolify-theme-publications-expertises v1.0.1/go.mod h1:wmPa4Tmmjj/3Od2iHffMEsf3lPtJoWrDLNsYnk8DAEY=
 github.com/hugolify/lawyerify-example-site v1.1.0 h1:txJ8zRdxsE1OQ1EV1Nz8+J9YEfQ9wG4JvTrm2z8F+zg=
 github.com/hugolify/lawyerify-example-site v1.1.0/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
-github.com/hugolify/lawyerify-netlify-cms v1.1.0 h1:aZ7L+ZsaaV/7re4FToGbjIHtMoxSi++iky+OOzTWRKY=
-github.com/hugolify/lawyerify-netlify-cms v1.1.0/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
+github.com/hugolify/lawyerify-netlify-cms v1.1.1 h1:eEa7d1xbrPIrvVpPQgxDalPGYJ3HkizhDYmBFSqTOiE=
+github.com/hugolify/lawyerify-netlify-cms v1.1.1/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
 github.com/hugolify/lawyerify-theme v1.10.0 h1:AEhiYY4/hjlGXahH+4mw+iRg8NJO666gQc85pnQUOJ4=
 github.com/hugolify/lawyerify-theme v1.10.0/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
 github.com/twbs/bootstrap v5.3.1+incompatible h1:VZq/ulwa2CvsK7F9LFzkCVLzaCkTYOVyW5c3FBICUsM=
