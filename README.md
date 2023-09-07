@@ -5,12 +5,10 @@
 Is a Github template based to Hugolify
 
 ## Table of content
-- [lawyerify-template](#lawyerify-template)
-  - [Table of content](#table-of-content)
-  - [Live demo](#live-demo)
-  - [Features](#features)
-  - [Documentation](#documentation)
-  - [License](#license)
+- [Live demo](#live-demo)
+- [Features](#features)
+- [Documentation](#documentation)
+- [License](#license)
 
 ## Live demo
 https://demo.lawyerify.io
@@ -30,6 +28,7 @@ Hugo sections available in theme and admin
   * categories (taxonomy)
   * tags (taxonomy)
 * publications
+  * categories (taxonomy)
   * concerned (taxonomy)
 
 ## Documentation
