@@ -11,25 +11,37 @@ Is a Github template based to Hugolify
 - [License](#license)
 
 ## Live demo
+
+### Base
 https://demo.lawyerify.io
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52a785b6-9320-46e5-bf49-cfeafce44edd/deploy-status)](https://app.netlify.com/sites/lawyerify-demo/deploys)
+
+### Theme 1
+https://theme-1--lawyerify-demo.netlify.app/
+
+### Theme 2
+https://theme-2--lawyerify-demo.netlify.app/
 
 ## Features
 Hugo sections available in theme and admin
 
 * pages
-* persons
 * expertises
 * places
-* statutes
+* persons
+  * expertises (taxonomy)
+  * places (taxonomy)
+  * statutes (taxonomy)
 * posts
   * authors (taxonomy)
   * categories (taxonomy)
+  * expertises (taxonomy)
   * tags (taxonomy)
 * publications
   * categories (taxonomy)
   * concerned (taxonomy)
+  * expertises (taxonomy)
 
 ## Documentation
 [https://github.com/hugolify/hugolify-template/wiki](https://github.com/hugolify/hugolify-template/wiki)
