@@ -28,8 +28,8 @@ github.com/hugolify/hugolify-theme-posts-expertises v1.0.1 h1:5AcZnWmg7Qx3x9BFk/
 github.com/hugolify/hugolify-theme-posts-expertises v1.0.1/go.mod h1:6i3VhYTQk04IzIFPhLuxX9X1pONKkpFfjJ7ZPAjISh0=
 github.com/hugolify/hugolify-theme-posts-tags v1.0.10 h1:FMDkZYBFxLrqvBAqG5BqiMS3QuiFxoTzReowd22tyX0=
 github.com/hugolify/hugolify-theme-posts-tags v1.0.10/go.mod h1:8Vb9TbKcVvgMTZpHdIp8vyw9loSTcY3q0BNvqv8WpLg=
-github.com/hugolify/hugolify-theme-publications v1.1.17 h1:Hcoo9h28La95FfMulFPxPzbx+n3iitZc/pjkRiN0v+Q=
-github.com/hugolify/hugolify-theme-publications v1.1.17/go.mod h1:9hR8/sdinGo6o4DJpZMTdP1I8XYwUUq585WmeU1zwH8=
+github.com/hugolify/hugolify-theme-publications v1.1.18 h1:aKlz+ZrCwlxNY3T2I5x7KF7pn4N0044fVr1sZ6vAJ9w=
+github.com/hugolify/hugolify-theme-publications v1.1.18/go.mod h1:9hR8/sdinGo6o4DJpZMTdP1I8XYwUUq585WmeU1zwH8=
 github.com/hugolify/hugolify-theme-publications-categories v1.0.3 h1:NM+pvbb5heaf5zOts6AYlniwop8KoDBQpjo9K/Xus8A=
 github.com/hugolify/hugolify-theme-publications-categories v1.0.3/go.mod h1:NX1zBK520EcoOqDbtg3EifmDxxhWZvrpQopo4QoeN5o=
 github.com/hugolify/hugolify-theme-publications-concerned v1.0.11 h1:6zOVAvE7cl+D8FD/UtUI8bRewypqHoTg6u3iIPr9Ros=
