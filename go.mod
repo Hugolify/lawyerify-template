@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.4.1 // indirect
-	github.com/hugolify/hugolify-theme v1.7.4 // indirect
+	github.com/hugolify/hugolify-theme v1.7.7 // indirect
 	github.com/hugolify/hugolify-theme-2 v1.0.2 // indirect
 	github.com/hugolify/hugolify-theme-expertises v1.0.11 // indirect
 	github.com/hugolify/hugolify-theme-persons v1.2.1 // indirect
