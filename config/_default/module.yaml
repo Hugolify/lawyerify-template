@@ -1,7 +1,13 @@
+# Hugolify content available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
+
 imports:
+
+# Specific Lawerify
 - path: github.com/hugolify/lawyerify-example-site
 - path: github.com/hugolify/lawyerify-theme
 - path: github.com/hugolify/lawyerify-netlify-cms
+
+# For exampleSite
 - path: github.com/hugolify/hugolify-theme-places
 - path: github.com/hugolify/hugolify-theme-expertises
 - path: github.com/hugolify/hugolify-theme-posts-authors
@@ -17,6 +23,10 @@ imports:
 - path: github.com/hugolify/hugolify-theme-persons-places
 - path: github.com/hugolify/hugolify-theme-persons-statutes
 - path: github.com/hugolify/hugolify-theme-persons
+
+# Core theme
 - path: github.com/hugolify/hugolify-theme
+
+# CMS
 - path: github.com/hugolify/hugolify-netlify-cms
 
