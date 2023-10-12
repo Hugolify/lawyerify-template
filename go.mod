@@ -19,10 +19,10 @@ require (
 	github.com/hugolify/hugolify-theme-posts-tags v1.0.11 // indirect
 	github.com/hugolify/hugolify-theme-publications v1.1.19 // indirect
 	github.com/hugolify/hugolify-theme-publications-categories v1.0.3 // indirect
-	github.com/hugolify/hugolify-theme-publications-concerned v1.0.12 // indirect
+	github.com/hugolify/hugolify-theme-publications-concerned v1.0.13 // indirect
 	github.com/hugolify/hugolify-theme-publications-expertises v1.0.2 // indirect
 	github.com/hugolify/lawyerify-example-site v1.1.1 // indirect
 	github.com/hugolify/lawyerify-netlify-cms v1.2.1 // indirect
-	github.com/hugolify/lawyerify-theme v1.2.5 // indirect
+	github.com/hugolify/lawyerify-theme v1.2.6 // indirect
 	github.com/twbs/bootstrap v5.3.1+incompatible // indirect
 )

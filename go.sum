@@ -30,15 +30,11 @@ github.com/hugolify/hugolify-theme-publications v1.1.19 h1:p0o/c8VuZnwPZ2tTeiB/S
 github.com/hugolify/hugolify-theme-publications v1.1.19/go.mod h1:9hR8/sdinGo6o4DJpZMTdP1I8XYwUUq585WmeU1zwH8=
 github.com/hugolify/hugolify-theme-publications-categories v1.0.3 h1:NM+pvbb5heaf5zOts6AYlniwop8KoDBQpjo9K/Xus8A=
 github.com/hugolify/hugolify-theme-publications-categories v1.0.3/go.mod h1:NX1zBK520EcoOqDbtg3EifmDxxhWZvrpQopo4QoeN5o=
-github.com/hugolify/hugolify-theme-publications-concerned v1.0.12 h1:2RuhWNLtigLa12Id1HQarLXhqR3GEBZERCXIo3ZquIU=
-github.com/hugolify/hugolify-theme-publications-concerned v1.0.12/go.mod h1:SAxYCXVsDJ5lUHU/YRrTIVWATehPwdy9a1VHhmUP5dw=
 github.com/hugolify/hugolify-theme-publications-expertises v1.0.2 h1:qb2mRPu1ADzoYn+IFwSof4+pJ6kGf45FBqfSYhR/UBA=
 github.com/hugolify/hugolify-theme-publications-expertises v1.0.2/go.mod h1:wmPa4Tmmjj/3Od2iHffMEsf3lPtJoWrDLNsYnk8DAEY=
 github.com/hugolify/lawyerify-example-site v1.1.1 h1:TuMCAjuKqB+DlPkzeHmrJweZSQSq5xaJBVBkBjH61Jo=
 github.com/hugolify/lawyerify-example-site v1.1.1/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
 github.com/hugolify/lawyerify-netlify-cms v1.2.1 h1:UF0bbNM3BtS2db8Jk4N+MAB7NkOdLKpKptLvHY74xwY=
 github.com/hugolify/lawyerify-netlify-cms v1.2.1/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
-github.com/hugolify/lawyerify-theme v1.2.5 h1:rlckmX4dThrbDamJH0e0MAGM4nLHEbi1mx8EIF53Wxc=
-github.com/hugolify/lawyerify-theme v1.2.5/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
 github.com/twbs/bootstrap v5.3.1+incompatible h1:VZq/ulwa2CvsK7F9LFzkCVLzaCkTYOVyW5c3FBICUsM=
 github.com/twbs/bootstrap v5.3.1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
