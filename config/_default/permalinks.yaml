@@ -13,3 +13,6 @@ publications: /parutions/:slug/
 publications_categories: /parutions/categories/:slug/
 publications_concerned: /parutions/personnes-concernees/:slug/
 publications_expertises: /parutions/expertises/:slug/
+realestates: /ventes-immobilieres/:slug/
+realestates_persons: /ventes-immobilieres/personnes/:slug/
+realestates_types: /ventes-immobilieres/types/:slug/

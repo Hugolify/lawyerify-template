@@ -10,6 +10,10 @@ imports:
 # For exampleSite
 - path: github.com/hugolify/hugolify-theme-places
 - path: github.com/hugolify/hugolify-theme-expertises
+- path: github.com/hugolify/hugolify-theme-realestates-sellers
+- path: github.com/hugolify/hugolify-theme-realestates-types
+- path: github.com/hugolify/hugolify-theme-realestates-persons
+- path: github.com/hugolify/hugolify-theme-realestates
 - path: github.com/hugolify/hugolify-theme-posts-authors
 - path: github.com/hugolify/hugolify-theme-posts-categories
 - path: github.com/hugolify/hugolify-theme-posts-expertises
