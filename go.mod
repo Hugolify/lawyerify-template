@@ -5,19 +5,19 @@ go 1.19
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.5.3 // indirect
-	github.com/hugolify/hugolify-theme v1.7.22 // indirect
-	github.com/hugolify/hugolify-theme-expertises v1.0.11 // indirect
+	github.com/hugolify/hugolify-theme v1.7.25 // indirect
+	github.com/hugolify/hugolify-theme-expertises v1.0.13 // indirect
 	github.com/hugolify/hugolify-theme-persons v1.3.2 // indirect
-	github.com/hugolify/hugolify-theme-persons-expertises v1.0.1 // indirect
+	github.com/hugolify/hugolify-theme-persons-expertises v1.0.2 // indirect
 	github.com/hugolify/hugolify-theme-persons-places v1.1.2 // indirect
 	github.com/hugolify/hugolify-theme-persons-statutes v1.1.2 // indirect
 	github.com/hugolify/hugolify-theme-places v1.1.1 // indirect
-	github.com/hugolify/hugolify-theme-posts v1.1.15 // indirect
+	github.com/hugolify/hugolify-theme-posts v1.1.16 // indirect
 	github.com/hugolify/hugolify-theme-posts-authors v1.0.11 // indirect
 	github.com/hugolify/hugolify-theme-posts-categories v1.0.9 // indirect
 	github.com/hugolify/hugolify-theme-posts-expertises v1.0.2 // indirect
 	github.com/hugolify/hugolify-theme-posts-tags v1.0.11 // indirect
-	github.com/hugolify/hugolify-theme-publications v1.1.19 // indirect
+	github.com/hugolify/hugolify-theme-publications v1.1.20 // indirect
 	github.com/hugolify/hugolify-theme-publications-categories v1.0.3 // indirect
 	github.com/hugolify/hugolify-theme-publications-concerned v1.0.13 // indirect
 	github.com/hugolify/hugolify-theme-publications-expertises v1.0.2 // indirect
