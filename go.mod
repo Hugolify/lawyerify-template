@@ -27,6 +27,6 @@ require (
 	github.com/hugolify/hugolify-theme-realestates-sellers v1.0.1 // indirect
 	github.com/hugolify/lawyerify-example-site v1.2.0 // indirect
 	github.com/hugolify/lawyerify-netlify-cms v1.2.1 // indirect
-	github.com/hugolify/lawyerify-theme v1.2.7 // indirect
+	github.com/hugolify/lawyerify-theme v1.3.0 // indirect
 	github.com/twbs/bootstrap v5.3.2+incompatible // indirect
 )
