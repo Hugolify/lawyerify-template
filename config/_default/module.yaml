@@ -11,13 +11,16 @@ imports:
 - path: github.com/hugolify/hugolify-theme-posts-tags
 - path: github.com/hugolify/hugolify-theme-posts
 - path: github.com/hugolify/hugolify-theme-publications-categories
-- path: github.com/hugolify/hugolify-theme-publications-concerned
+- path: github.com/hugolify/hugolify-theme-publications-persons
 - path: github.com/hugolify/hugolify-theme-publications-expertises
 - path: github.com/hugolify/hugolify-theme-publications
 - path: github.com/hugolify/hugolify-theme-persons-expertises
 - path: github.com/hugolify/hugolify-theme-persons-places
 - path: github.com/hugolify/hugolify-theme-persons-statutes
 - path: github.com/hugolify/hugolify-theme-persons
+- path: github.com/hugolify/hugolify-theme-realestates-categories
+- path: github.com/hugolify/hugolify-theme-realestates-persons
+- path: github.com/hugolify/hugolify-theme-realestates
 - path: github.com/hugolify/hugolify-theme
 - path: github.com/hugolify/hugolify-netlify-cms
 

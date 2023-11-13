@@ -11,5 +11,5 @@ categories: /actualites/categories/:slug/
 tags: /actualites/tags/:slug/
 publications: /parutions/:slug/
 publications_categories: /parutions/categories/:slug/
-publications_concerned: /parutions/personnes-concernees/:slug/
 publications_expertises: /parutions/expertises/:slug/
+publications_persons: /parutions/personnes-concernees/:slug/
