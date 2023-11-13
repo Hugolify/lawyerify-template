@@ -1,7 +1,7 @@
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
-github.com/hugolify/hugolify-netlify-cms v1.8.1 h1:jCk6USt2casQn5jmqh8ryaLiiROU4zGDKFWpu678blk=
-github.com/hugolify/hugolify-netlify-cms v1.8.1/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
+github.com/hugolify/hugolify-netlify-cms v1.8.2 h1:a0+t8x9Ptj16JNKceyu7GChqDIlNOUuV+kUR9Uyo74U=
+github.com/hugolify/hugolify-netlify-cms v1.8.2/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
 github.com/hugolify/hugolify-theme v1.7.37 h1:PwyjOnHbiLWN/EVEz0LYHzj+kks7l9WQ+Ntpo+zwSf0=
 github.com/hugolify/hugolify-theme v1.7.37/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme-expertises v1.0.14 h1:5ZToarhrlOKBC5i21vVRtEuC2KE1/DsYY4yZdc1s7tw=
@@ -46,7 +46,7 @@ github.com/hugolify/lawyerify-example-site v1.2.1 h1:pJicGZNjHcCNGpbSWrumnZ+V8Xt
 github.com/hugolify/lawyerify-example-site v1.2.1/go.mod h1:KWHCO+wV6Vy/+J6B0NCPx9uSP2cHyMTrSHLpbPaLocI=
 github.com/hugolify/lawyerify-netlify-cms v1.2.1 h1:UF0bbNM3BtS2db8Jk4N+MAB7NkOdLKpKptLvHY74xwY=
 github.com/hugolify/lawyerify-netlify-cms v1.2.1/go.mod h1:y+9gvNPS+vnkLlKpjKNMMtdhEOuV+hlX/48VL8tBcRk=
-github.com/hugolify/lawyerify-theme v1.3.3 h1:7T83iPX1QNtOWwnLA1CB7z7HwoGZQFbKAbjH0BVIv5Y=
-github.com/hugolify/lawyerify-theme v1.3.3/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
+github.com/hugolify/lawyerify-theme v1.3.4 h1:B16aUwFif1J6e5jvDSK452QCeMv1x5LdsvAVEmbXA2s=
+github.com/hugolify/lawyerify-theme v1.3.4/go.mod h1:/gEZGRHrgKI/hpj3r+917MKDZOtUsIAd4YSf06/hxTI=
 github.com/twbs/bootstrap v5.3.2+incompatible h1:tuiO5acc6xnZUR77Sbi5aKWXxjYxbmsSbJwYrhAKoQQ=
 github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
