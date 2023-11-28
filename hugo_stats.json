@@ -151,6 +151,8 @@
       "page-realestates",
       "pages",
       "pagination-between",
+      "pagination-between-with-image",
+      "pagination-between-with-title",
       "person",
       "persons",
       "persons_expertise",
