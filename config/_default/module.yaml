@@ -1,17 +1,15 @@
 # Hugolify content available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
 
 imports:
+  # Specific Lawerify
+  - path: github.com/hugolify/lawyerify-theme
+  - path: github.com/hugolify/lawyerify-decap-cms
 
-# Specific Lawerify
-- path: github.com/hugolify/lawyerify-theme
-- path: github.com/hugolify/lawyerify-decap-cms
+  # Content
+  # -> Hugolify content types and taxonomies available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
 
-# Content
-# -> Hugolify content types and taxonomies available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
+  # Core theme
+  - path: github.com/hugolify/hugolify-theme
 
-# Core theme
-- path: github.com/hugolify/hugolify-theme
-
-# CMS
-- path: github.com/hugolify/hugolify-decap-cms
-
+  # CMS
+  - path: github.com/hugolify/hugolify-decap-cms
