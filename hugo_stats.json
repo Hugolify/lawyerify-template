@@ -41,9 +41,6 @@
       "row",
       "top"
     ],
-    "ids": [
-      "footer",
-      "main"
-    ]
+    "ids": ["footer", "main"]
   }
 }
