@@ -4,7 +4,7 @@ persons: /equipe/:slug/
 persons_expertises: /equipe/expertises/:slug/
 persons_places: /equipe/cabinets/:slug/
 persons_statutes: /equipe/statuts/:slug/
-posts: /actualites/:year/:year-:month-:day-:slug/
+posts: /actualites/:year-:month-:day-:slug/
 posts_expertises: /actualites/expertises/:slug/
 authors: /actualites/auteurs/:slug/
 categories: /actualites/categories/:slug/
