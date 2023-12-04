@@ -21,11 +21,18 @@ https://demo.lawyerify.io
 
 ### Theme 1
 
-https://theme-1--lawyerify-demo.netlify.app/
+* https://theme-1--lawyerify-demo.netlify.app/
 
 ### Theme 2
 
-https://theme-2--lawyerify-demo.netlify.app/
+* https://theme-2--lawyerify-demo.netlify.app/
+
+### Theme 3
+
+* https://theme-3--lawyerify-demo.netlify.app/
+* https://theme-3-independent--lawyerify-demo.netlify.app/
+* https://theme-3-associates--lawyerify-demo.netlify.app/
+
 
 ## Features
 
