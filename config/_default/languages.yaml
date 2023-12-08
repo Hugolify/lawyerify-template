@@ -1,4 +1,12 @@
+_merge: deep
 fr:
+  _merge: deep
   languageName: Français
-  title: Cabinet Saint-Honoré Pénal
+  title: Cabinet d'avocats international
   weight: 1
+
+en:
+  _merge: deep
+  languageName: English
+  title: International law firm
+  weight: 2
