@@ -1,11 +1,7 @@
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
-github.com/hugolify/hugolify-decap-cms v1.10.1 h1:zB92iPPLLDfyZCdxAJCh6L8VS+d8r98RhPdlLnK35JY=
-github.com/hugolify/hugolify-decap-cms v1.10.1/go.mod h1:lxqV0lEahrLATtKBgUbj/c9fQE1XGpaJSIaLk9D/hRA=
 github.com/hugolify/hugolify-theme v1.8.2 h1:tTWlfNYqZFYQxj6HHWgtb9cdjy5YwlYqbbvd5k2HNek=
 github.com/hugolify/hugolify-theme v1.8.2/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
-github.com/hugolify/hugolify-theme-3 v1.0.9 h1:UVUjfisVq0nLLieWnSiIhX7ga3n05c4LNz0sI89+PkM=
-github.com/hugolify/hugolify-theme-3 v1.0.9/go.mod h1:JKuVKJqvUin5iT3GgaHOsZNfq9GuS6xNln4Ue1KKfIA=
 github.com/hugolify/hugolify-theme-expertises v1.0.15 h1:0y5sJKYU265x7CJL0Pdp1dSfhyhDInGv8RCIEwFbs6A=
 github.com/hugolify/hugolify-theme-expertises v1.0.15/go.mod h1:PRae8nvjLI70qjJEVsLf01ufzmdF1cFJ7yrkEuNh0FY=
 github.com/hugolify/hugolify-theme-persons v1.3.10 h1:pxmINxKByDyDf6e7oJ9MdABiR7TFUSZaL2O/X82nC9U=
@@ -34,8 +30,6 @@ github.com/hugolify/hugolify-theme-publications-expertises v1.0.3 h1:xHjTjvQcMoz
 github.com/hugolify/hugolify-theme-publications-expertises v1.0.3/go.mod h1:wmPa4Tmmjj/3Od2iHffMEsf3lPtJoWrDLNsYnk8DAEY=
 github.com/hugolify/hugolify-theme-publications-persons v1.1.4 h1:6i0w2BEfPRDrwfXGFjkAX5R1sOUxvbYLFekHyEOfn1U=
 github.com/hugolify/hugolify-theme-publications-persons v1.1.4/go.mod h1:To+/GFhBybbw54E7FXfcU2C1hulhkKkB31YrNI3SSeM=
-github.com/hugolify/lawyerify-decap-cms v1.4.0 h1:uJSdHbF7K99iN+FelyyfutMUULmX632fHXBaVWClekM=
-github.com/hugolify/lawyerify-decap-cms v1.4.0/go.mod h1:yrVDHtixqdrnR9w9P5bOomMCRrQUFm1b713E1+xQxT8=
 github.com/hugolify/lawyerify-example-site-international v1.0.3 h1:FiBDGz+pLCce1rwvj/+CHMyDI5/+ZqyDb5arAMoHAzI=
 github.com/hugolify/lawyerify-example-site-international v1.0.3/go.mod h1:il8uLZRz+ggZONt6GhpVDmEOJsidJdWeF2wCbDGkAqI=
 github.com/hugolify/lawyerify-theme v1.3.6 h1:mhsp6cHEQR1mZhS6QDvpDjtRZ1pzOj0cb7wcczVcW+M=
