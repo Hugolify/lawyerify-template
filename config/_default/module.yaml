@@ -1,36 +1,16 @@
 # Hugolify content available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
 
 imports:
+  # Specific Lawerify
+  - path: github.com/hugolify/lawyerify-example-site-independent
+  - path: github.com/hugolify/lawyerify-theme
 
-# Specific Lawerify
-- path: github.com/hugolify/lawyerify-example-site
-- path: github.com/hugolify/lawyerify-theme
-- path: github.com/hugolify/lawyerify-decap-cms
+  # For exampleSite
+  - path: github.com/hugolify/hugolify-theme-expertises
+  - path: github.com/hugolify/hugolify-theme-posts-categories
+  - path: github.com/hugolify/hugolify-theme-posts-expertises
+  - path: github.com/hugolify/hugolify-theme-posts-tags
+  - path: github.com/hugolify/hugolify-theme-posts
 
-# For exampleSite
-- path: github.com/hugolify/hugolify-theme-places
-- path: github.com/hugolify/hugolify-theme-expertises
-- path: github.com/hugolify/hugolify-theme-realestates-categories
-- path: github.com/hugolify/hugolify-theme-realestates-sellers
-- path: github.com/hugolify/hugolify-theme-realestates-persons
-- path: github.com/hugolify/hugolify-theme-realestates
-- path: github.com/hugolify/hugolify-theme-posts-authors
-- path: github.com/hugolify/hugolify-theme-posts-categories
-- path: github.com/hugolify/hugolify-theme-posts-expertises
-- path: github.com/hugolify/hugolify-theme-posts-tags
-- path: github.com/hugolify/hugolify-theme-posts
-- path: github.com/hugolify/hugolify-theme-publications-categories
-- path: github.com/hugolify/hugolify-theme-publications-expertises
-- path: github.com/hugolify/hugolify-theme-publications-persons
-- path: github.com/hugolify/hugolify-theme-publications
-- path: github.com/hugolify/hugolify-theme-persons-expertises
-- path: github.com/hugolify/hugolify-theme-persons-places
-- path: github.com/hugolify/hugolify-theme-persons-statutes
-- path: github.com/hugolify/hugolify-theme-persons
-
-# Core theme
-- path: github.com/hugolify/hugolify-theme
-
-# CMS
-- path: github.com/hugolify/hugolify-decap-cms
-
+  # Core theme
+  - path: github.com/hugolify/hugolify-theme
