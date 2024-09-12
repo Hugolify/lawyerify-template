@@ -38,9 +38,13 @@
       "logo",
       "nav",
       "nav-accessibility",
+      "preload",
       "row",
       "top"
     ],
-    "ids": ["footer", "main"]
+    "ids": [
+      "footer",
+      "main"
+    ]
   }
 }
