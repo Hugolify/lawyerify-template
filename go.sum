@@ -8,6 +8,8 @@ github.com/hugolify/hugolify-theme v1.16.5 h1:PMbxl+Yrj+87JbgHm9yKyRdVC/t14mxQ1o
 github.com/hugolify/hugolify-theme v1.16.5/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme-4 v0.0.0-20240911163205-65d3a6f3ef05 h1:Tz+wpMMa5eHOfEg+jx03SFOB5bIcHCqeYCza0VbyeGE=
 github.com/hugolify/hugolify-theme-4 v0.0.0-20240911163205-65d3a6f3ef05/go.mod h1:+Bq3W1XezJTk4tnEUtksomRwykOHFWx6yrYS5N4oaiw=
+github.com/hugolify/hugolify-theme-4 v0.0.0-20240912072157-64f4fa4e3511 h1:L1OmPoaOVm+n28qp6rF9y4iNRQlp9FpJUl592IpzA2g=
+github.com/hugolify/hugolify-theme-4 v0.0.0-20240912072157-64f4fa4e3511/go.mod h1:+Bq3W1XezJTk4tnEUtksomRwykOHFWx6yrYS5N4oaiw=
 github.com/hugolify/hugolify-theme-expertises v1.0.17 h1:Aq05Vf4vPgXQXt957Ch5bs1RGHvK+7vLAK01c+2Owmc=
 github.com/hugolify/hugolify-theme-expertises v1.0.17/go.mod h1:PRae8nvjLI70qjJEVsLf01ufzmdF1cFJ7yrkEuNh0FY=
 github.com/hugolify/hugolify-theme-persons v1.3.12 h1:nWbyUGc7qsHNIopjB7pzL905UVBkDuxF4ca6b7eBdTE=
