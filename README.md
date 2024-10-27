@@ -4,12 +4,6 @@
 
 Is a Github template based to Hugolify
 
-## Table of content
-
-- [Live demo](#live-demo)
-- [Features](#features)
-- [Documentation](#documentation)
-- [License](#license)
 
 ## Live demo
 
@@ -32,32 +26,12 @@ https://demo.lawyerify.io
 * https://theme-3--lawyerify-demo.netlify.app/
 * https://theme-3-independent--lawyerify-demo.netlify.app/
 * https://theme-3-associates--lawyerify-demo.netlify.app/
+* https://theme-3-international--lawyerify-demo.netlify.app/
 
-
-## Features
-
-Hugo sections available in theme and admin
-
-- pages
-- expertises
-- places
-- persons
-  - expertises (taxonomy)
-  - places (taxonomy)
-  - statutes (taxonomy)
-- posts
-  - authors (taxonomy)
-  - categories (taxonomy)
-  - expertises (taxonomy)
-  - tags (taxonomy)
-- publications
-  - categories (taxonomy)
-  - concerned (taxonomy)
-  - expertises (taxonomy)
 
 ## Documentation
 
-[https://github.com/hugolify/hugolify-template/wiki](https://github.com/hugolify/hugolify-template/wiki)
+https://www.hugolify.io/docs/
 
 ## License
 
