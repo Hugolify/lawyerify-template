@@ -28,6 +28,12 @@ https://demo.lawyerify.io
 * https://theme-3-associates--lawyerify-demo.netlify.app/
 * https://theme-3-international--lawyerify-demo.netlify.app/
 
+### Theme 4
+
+* https://theme-4--lawyerify-demo.netlify.app/
+* https://theme-4-independent--lawyerify-demo.netlify.app/
+* https://theme-4-associates--lawyerify-demo.netlify.app/
+* https://theme-4-international--lawyerify-demo.netlify.app/
 
 ## Documentation
 
