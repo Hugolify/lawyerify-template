@@ -3,7 +3,6 @@
 imports:
   # Specific Lawerify
   - path: github.com/hugolify/lawyerify-theme
-  - path: github.com/hugolify/lawyerify-decap-cms
 
   # Content
   # -> Hugolify content types and taxonomies available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
@@ -12,4 +11,4 @@ imports:
   - path: github.com/hugolify/hugolify-theme
 
   # CMS
-  - path: github.com/hugolify/hugolify-decap-cms
+  - path: github.com/hugolify/hugolify-admin

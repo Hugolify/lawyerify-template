@@ -30,6 +30,7 @@
       "container",
       "description",
       "heading",
+      "heading-filter",
       "hero",
       "hero-content",
       "hero-media",
@@ -40,6 +41,11 @@
       "nav-accessibility",
       "preload",
       "row",
+      "section-persons",
+      "section-realestates",
+      "taxonomy-persons_statutes",
+      "taxonomy-realestates_persons",
+      "taxonomy-realestates_sellers",
       "top"
     ],
     "ids": [
